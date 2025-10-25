@@ -11,25 +11,25 @@ cover: "![[Pasted image 20250128204103.png]]"
 title: Mindful Cooking
 ---
 
-Mindful Cooking means to 
-bring mindfulness practices 
+Mindful Cooking means to \
+bring mindfulness practices \
 into your kitchen.
 
 Cooking as if it was a meditation.
-Or if you know [[Tai Chi]] , 
+Or if you know [[Tai Chi]] , \
 then do [[Everything is Tai Chi]].
 Being present in each moment. 
 
-Connecting all our senses 
-with each ingredient and phase 
+Connecting all our senses \
+with each ingredient and phase \
 of the process. 
 
-> When you cook mindfully, 
-> you're not just mechanically chopping vegetables 
+> When you cook mindfully, \
+> you're not just mechanically chopping vegetables \
 > or stirring a pot. 
-> You're aware of every color, scent, and texture, 
+> You're aware of every color, scent, and texture, \
 > and you're fully engaged in creating something nourishing. 
-> Mindful cooking can help contribute to a happier, 
+> Mindful cooking can help contribute to a happier, \
 > more focused, and more satisfying life.
 
 Regard the kitchen as a sacred temple. 

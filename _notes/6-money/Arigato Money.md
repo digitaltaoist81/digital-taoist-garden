@@ -9,21 +9,21 @@ cover:
 summary: '"Arigato Money" is a concept where you *express gratitude* for your money, whether you are receiving it or spending it.'
 title: Arigato Money
 ---
-*"Arigato Money"* is a concept where you 
-express gratitude for your money, 
+*"Arigato Money"* is a concept where you \
+express gratitude for your money, \
 whether you are receiving it or spending it. 
 
-The idea is to say "thank you" or "arigato" 
-to your money when it comes into your life, 
-like when you receive your paycheck, 
-and also when it leaves your hands, 
+The idea is to say "thank you" or "arigato" \
+to your money when it comes into your life, \
+like when you receive your paycheck, \
+and also when it leaves your hands, \
 like when you pay for groceries or bills. 
 
-This practice helps you create a positive 
-and respectful relationship with money, 
+This practice helps you create a positive \
+and respectful relationship with money, \
 making it a source of joy rather than stress.
 
-This concept comes from the [[Happy Money]] 
+This concept comes from the [[Happy Money]] \
 book written from Ken Honda. 
 
 It is all about thinking about money as energy. 

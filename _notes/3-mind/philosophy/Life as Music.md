@@ -11,10 +11,10 @@ summary: it was a musical thing and you were supposed to sing or to dance while 
 cover:
 title: Life as Music
 ---
-I love this idea from Alan Watts 
-about regarding **life as a musical thing**. 
+I love this idea from Alan Watts \
+about regarding life as a musical thing. 
 
-This concept has helped me quite a lot 
+This concept has helped me quite a lot \
 so I hope this can also help you as well. 
 
 This is the extract regarding the concept: 

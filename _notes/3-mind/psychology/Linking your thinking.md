@@ -12,14 +12,14 @@ title: Linking Your Thinking
 This is what the [[Digital Garden]] is about. 
 Connecting ideas. 
 Linking unrelated areas. 
-Building links between 
+Building links between \
 inner thoughts and experiences. 
 
-The "Linking your thinking" concept 
-is a personal knowledge management (PKM) 
+The "Linking your thinking" concept \
+is a personal knowledge management (PKM) \
 framework developed by *Nick Milo*.
 
-Connecting notes feels like 
+Connecting notes feels like \
 building a **second brain**. 
 
 ### Key Components 

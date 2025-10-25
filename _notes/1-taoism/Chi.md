@@ -10,19 +10,19 @@ tags:
 cover:
 title: Chi
 ---
-
 Chi is a crucial force in Taoism \
 and in other Eastern philosophies. 
 
 In Chinese culture, \
-it is actually regarded as the energy of the Universe.  
+it is actually regarded as \
+the energy of the Universe.  
 Running through every being \
 and non-being. 
 Connecting us in many aspects. 
 
-> [!hint] Chi in Dragon Ball
-> Remember the qi of every character in Dragon Ball. \
-> The more ‘qi’, \
+> [!hint] Levels of Chi
+> Remember the qi of every character in Dragon Ball? 
+> The more ‘qi’, 
 > the more powerful. 
 
 The origin of the Chinese pictogram \
@@ -30,7 +30,8 @@ has multiple concepts.
 
 ![[qi_character.webp]]
 
-Imagine a concept that is simultaneously the air you breathe, \
+Imagine a concept that is \
+simultaneously the air you breathe, \
 the energy that gives you strength, \
 the spirit that gives you courage, \
 and the hot-headed feeling of being angry. 

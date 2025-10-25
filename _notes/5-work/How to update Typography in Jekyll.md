@@ -11,9 +11,7 @@ feynman:
 ---
 
 > [!abstract] Tutorial \
-> This is a tutorial on how \
-> to update the typography \
-> for your Digital Garden. 
+> Learn how to customise the typography of your blog using self-hosted fonts. 
 
 In case you are \
 also using Jekyll \

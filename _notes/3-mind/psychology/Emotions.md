@@ -6,17 +6,17 @@ tags:
   - idea/emocion
 title: Emotions
 ---
-Emotions are *Psychophysiological* 
-states that we all experience 
+Emotions are *Psychophysiological*  \
+states that we all experience \
 as humans in our day to day life. 
 
-They are a **survival response** 
-that our system has learned 
+They are a **survival response** \
+that our system has learned \
 in order to navigate through life. 
 
-This means that each emotion 
-**carries critical information** about 
-what goes through our life and how 
+This means that each emotion \
+**carries critical information** about \
+what goes through our life and how \
 our instinct is telling us to act. 
 
 > [!hint] 
@@ -29,8 +29,8 @@ our instinct is telling us to act.
 
 ### The 7 Basic Emotions 
 
-Paul Ekman, a well known psychologist 
-whose work focus is the study of emotions, 
+Paul Ekman, a well known psychologist \
+whose work focus is the study of emotions, \
 has identified these 7 basic emotions: 
 
 1. [[Emoción Miedo]] :: As a response to activate the danger response system. 

@@ -10,16 +10,17 @@ title: ZuoWang Meditation
 ---
 ![[Pasted image 20250128215958.png]]
 
-The Zuo Wang meditation is an 
+The Zuo Wang meditation is an \
 advanced taoist practice. 
 
-It consists of reaching the so-called 
-"Empty State". 
+It consists of reaching the \
+so-called "Empty State". 
 
-This is one of the final phases 
-when practicing [[Tai Chi]], 
-where your body and mind 
-become empty and one may experience 
+This is one of the final phases \
+when practicing [[Tai Chi]], \
+where your body and mind \
+become empty. 
+One may then experience \
 a true connection with the [[Tao]] .
 
 > “Our cultivation is to remain with our original nature, 
