@@ -27,6 +27,15 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
+fonts:
+  use_google_fonts: false
+  google_fonts_url: ""
+  use_self_hosted_fonts: true
+  heading: "Space Mono"
+  base: "DM Sans"
+  monospace: "DM Sans"
+  logo: "Space Mono"
+
 collections:
   notes:
     output: true
