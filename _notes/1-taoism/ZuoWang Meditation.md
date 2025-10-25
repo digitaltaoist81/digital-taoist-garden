@@ -8,7 +8,6 @@ tags:
 source:
 title: ZuoWang Meditation
 ---
-![[Pasted image 20250128215958.png]]
 
 The Zuo Wang meditation is an \
 advanced taoist practice. 
@@ -30,7 +29,7 @@ a true connection with the [[Tao]] .
 > So wuwei means to remain empty and 
 > be totally present with whatever you are doing." 
 
-> [!hint] Great Guided Meditation
+> **Resource** \
 > I found a fantastic guided meditation 
 > on Youtube which I enjoy listening 
 > from time to time. 

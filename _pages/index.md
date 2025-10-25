@@ -7,20 +7,20 @@ permalink: /
 
 # Home 🌱
 
+<p>Studying the Tao <br>
+of modern life.</p>
+
+<p>Here you will discover <br>
+a bunch of notes and ideas <br>
+from unrelated topics like <br>
+<span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  taoism  <span class="invalid-link-brackets">]]</span></span>, <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  fitness  <span class="invalid-link-brackets">]]</span></span>, philosophy, psychology, cooking, programming, entrepreneurship,  agriculture, money, languages, music, house, social, books, anime or films.</p>
+
 <blockquote>
-  <p>[!abstract] What is this site about? <br>
+  <p>
 A Digital Garden is an online space <br>
 forming an evolving collection of <br>
 interconnected notes, ideas and resources.</p>
 </blockquote>
-
-<p>Welcome to my little <br>
-corner of the online universe.</p>
-
-<p>As a Digital Taoist, <br>
-expect to read about <br>
-the connection between <br>
-<span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  taoism  <span class="invalid-link-brackets">]]</span></span> and <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  fitness  <span class="invalid-link-brackets">]]</span></span>, philosophy, psychology, cooking, programming, entrepreneurship,  agriculture, money, languages, music, house, social, books, anime or films.</p>
 
 <p>This project came to life <br>
 thanks to the concepts of <br>

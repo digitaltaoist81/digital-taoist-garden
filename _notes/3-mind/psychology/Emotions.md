@@ -19,7 +19,7 @@ This means that each emotion \
 what goes through our life and how \
 our instinct is telling us to act. 
 
-> [!hint] 
+> **Hint** \
 > Does not mean that we need 
 > to always listen and obey to what 
 > an emotion is suggesting. 

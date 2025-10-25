@@ -10,7 +10,7 @@ title: How to update Typography in Jekyll
 feynman:
 ---
 
-> [!abstract] Tutorial \
+> **abstract** \
 > Learn how to customise the typography of your blog using self-hosted fonts. 
 
 In case you are \
@@ -34,7 +34,7 @@ of your site.
 2. **Check License**: Not all typographies are open and free to use. Be sure to check the license and how you can use it. 
 3. **Download Font Files**: Time to download the font files into your computer. 
 
-> [!tip] Opt for WOFF
+> **Tip** \
 > Most font downloads come in formats such as TTF, OTF, or WOFF. It’s generally advisable to opt for the WOFF format specifically designed for web use, as it offers better compression and faster loading times. According to industry studies, typography can affect reading speed by up to 10%, emphasizing the need for optimized files.
 
 4. **Prepare folder in repo**: Create a folder for hosting the fonts. Commonly under `assets/fonts`. 
@@ -66,7 +66,7 @@ of your site.
 
 7. **Call them from your styles.scss**: At this phase, you have multiple options for using them. We can just already call them or refer to the config variable. The important point is that after this they will always be available for your site as a self-hosted option. 
 
-> [!important] Re-build
+> **Remember** \
 > Remember you need to `$jekyll build` or `$jekyll serve` your site in terminal after changing any of the config files. 
 
 ### 🔬 Sources

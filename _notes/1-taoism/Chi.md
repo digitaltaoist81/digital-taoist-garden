@@ -20,15 +20,13 @@ Running through every being \
 and non-being. 
 Connecting us in many aspects. 
 
-> [!hint] Levels of Chi
+> **mnemonic** \
 > Remember the qi of every character in Dragon Ball? 
 > The more ‘qi’, 
 > the more powerful. 
 
 The origin of the Chinese pictogram \
 has multiple concepts. 
-
-![[qi_character.webp]]
 
 Imagine a concept that is \
 simultaneously the air you breathe, \
@@ -44,8 +42,6 @@ What the [[Linking your thinking]] method does \
 is connect the energy between \
 every note, idea or concept. \
 Letting the qi flow through our neural activity. 
-
-![[Pasted image 20251023151603.png]]
 
 We can even perceive Chi in every emotion. \
 All [[Emotions]] bring information and energy \
