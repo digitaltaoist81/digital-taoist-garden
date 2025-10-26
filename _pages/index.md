@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Home 🌱
+# Home 
 
 <p>Studying the Tao <br>
 of modern life.</p>
@@ -41,7 +41,7 @@ Tao Te Ching.</p>
 </ol>
 
 <blockquote>
-  <p>[!hint] Building your own Digital Garden <br>
+  <p>Building your own Digital Garden <br>
 If you happen to love this idea <br>
 of digital gardening, <br>
 please follow this guide <br>

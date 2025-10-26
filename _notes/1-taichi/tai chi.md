@@ -40,6 +40,16 @@ title: tai chi
 1. **Tao Te Ching** by Ursula K. Le Guin :: The philosophical foundation of Tai Chi. A must read. 
 2. **There are no secrets** by Wolfe Lowenthal :: A great book about the experiences from a Tai Chi student from Master Cheng Man Ching and the lessons behind the practice. 
 
-## Latest Notes 
+## Latest Tai Chi Notes
 
+<ul>
+  {% assign filtered_posts = site.notes %}
+  {% for note in filtered_posts limit: 10 %}
+     {% if note.tags contains "area/taichi" %}
+              <li>
+                {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+              </li>
+      {% endif %}
+  {% endfor %}
+</ul>
 

@@ -7,10 +7,11 @@ tags:
   - idea
   - idea/tao
   - idea/pilar
-  - tao/concept
   - area/mind/philosophy
   - area/taichi
 source: https://awaken.com/2024/01/everything-is-tai-chi/
+title: Everything is Tai Chi
+permalink: /taichi
 ---
 
 > **abstract** \

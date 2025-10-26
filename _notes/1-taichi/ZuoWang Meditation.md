@@ -5,8 +5,10 @@ tags:
   - idea
   - idea/tao
   - idea/meditation
+  - area/taichi
 source:
 title: ZuoWang Meditation
+category: tai-chi
 ---
 
 The Zuo Wang meditation is an \

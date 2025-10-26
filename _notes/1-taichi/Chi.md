@@ -4,12 +4,14 @@ related:
   - "[[Tai Chi]]"
 tags:
   - concept
-  - tao/concept
+  - area/taichi
   - idea/tao
   - public
 cover:
 title: Chi
+permalink: /taichi
 ---
+
 Chi is a crucial force in Taoism \
 and in other Eastern philosophies. 
 
