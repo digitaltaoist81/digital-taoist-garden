@@ -5,7 +5,12 @@ id: home
 permalink: /
 ---
 
-# Home 
+<div id="notes-title-container">
+    <h1>Home</h1>
+    <h3 id="japanese-subtitle">ホーム</h3>
+</div>
+
+<hr>
 
 <p>Studying the Tao <br>
 of modern life.</p>

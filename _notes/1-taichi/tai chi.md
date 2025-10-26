@@ -5,6 +5,7 @@ tags:
   - map
   - area/taichi
 title: tai chi
+japanese: "太極拳"
 ---
 
 > [[Everything is Tai Chi]] \

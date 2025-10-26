@@ -11,7 +11,7 @@ tags:
   - area/taichi
 source: https://awaken.com/2024/01/everything-is-tai-chi/
 title: Everything is Tai Chi
-permalink: /taichi
+japanese: "すべては太極である"
 ---
 
 > **abstract** \

@@ -127,6 +127,16 @@ nav {
   }
 }
 
+#notes-title-container {
+    margin-top: 5em;
+}
+
+#japanese-subtitle {
+    font-family: $font-family;
+    font-weight: 200;
+    margin-top: -0.03em; // Pull it closer to main title
+}
+
 .backlink-box {
   background: $color-box-background;
   padding: 1em;

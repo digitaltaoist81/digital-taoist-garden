@@ -1,15 +1,14 @@
 ---
 up:
-related:
-  - "[[Tai Chi]]"
 tags:
   - concept
   - area/taichi
   - idea/tao
   - public
 cover:
-title: Chi
+title: Qi
 permalink: /taichi
+japanese: "気"
 ---
 
 Chi is a crucial force in Taoism \

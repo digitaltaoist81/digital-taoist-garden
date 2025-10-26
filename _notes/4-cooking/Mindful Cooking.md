@@ -9,6 +9,7 @@ tags:
 source: https://www.calm.com/es/blog/mindful-cooking#:~:text=In%20mindful%20cooking%2C%20you%20pay,simple%20act%20of%20making%20food.
 cover: "![[Pasted image 20250128204103.png]]"
 title: Mindful Cooking
+japanese: "マインドフル・クッキング"
 ---
 
 Mindful Cooking means to \
