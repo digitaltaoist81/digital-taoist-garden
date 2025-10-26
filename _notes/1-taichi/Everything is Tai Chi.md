@@ -22,7 +22,7 @@ everything is Tai Chi.
 
 Not only is a martial art, \
 but the rhythm and music \
-of the universe itself. 
+of the universe itself. \
 The dance of the yin \
 and the yang. 
 
@@ -37,10 +37,10 @@ everywhere.
 
 When playing music, \
 enjoy each song as \
-a Tai Chi form. 
+a Tai Chi form. \
 When programming, \
 keep your mind calm \
-while solving problems. 
+while solving problems. \
 When eating, \
 savour each bite as \
 slowly as a Tai Chi movement. 

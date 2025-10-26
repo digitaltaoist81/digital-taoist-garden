@@ -13,7 +13,7 @@ of modern life.</p>
 <p>Here you will discover <br>
 a bunch of notes and ideas <br>
 from unrelated topics like <br>
-<span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  tai chi  <span class="invalid-link-brackets">]]</span></span>, <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  fitness  <span class="invalid-link-brackets">]]</span></span>, philosophy, psychology, cooking, programming, entrepreneurship,  agriculture, money, languages, music, house, social, books, anime or films.</p>
+<a class="internal-link" href="/tai-chi">tai chi</a>, <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  fitness  <span class="invalid-link-brackets">]]</span></span>, philosophy, psychology, cooking, programming, entrepreneurship,  agriculture, money, languages, music, house, social, books, anime or films.</p>
 
 <blockquote>
   <p>
