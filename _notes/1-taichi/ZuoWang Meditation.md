@@ -16,7 +16,7 @@ It consists of reaching the \
 so-called "Empty State". 
 
 This is one of the final phases \
-when practicing [[Tai Chi]], \
+when practicing [[tai chi]], \
 where your body and mind \
 become empty. 
 One may then experience \
