@@ -41,8 +41,3 @@ has identified these 7 basic emotions:
 6. [[Emocion Asco]] :: This saves us from preventing to eat toxic or poisonous food. 
 7. [[Emocion Desprecio]] :: Something that is deeply rooted in our societies. 
 ### List of emotions 
-
-```dataview
- TABLE feynman, link(cover,"200") as Visual 
- FROM #idea/emocion 
-```

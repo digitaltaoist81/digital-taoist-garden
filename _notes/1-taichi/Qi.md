@@ -86,9 +86,9 @@ for keeping my Chi levels strong and balanced:
 
 ## Sources
 
-- https://www.mindbodygreen.com/articles/what-is-chi 
-- https://www.sohoinchina.com/chi-in-chinese-culture/ 
-- https://dragonball.fandom.com/wiki/Ki 
-- https://contextualchinese.com/%E6%B0%94 
+- [Article on Tai chi](https://www.mindbodygreen.com/articles/what-is-chi)
+- [Chi in chinese culture](https://www.sohoinchina.com/chi-in-chinese-culture/)
+- [Dragon Ball Wiki](https://dragonball.fandom.com/wiki/Ki )
+- [Character Qi](https://contextualchinese.com/%E6%B0%94)  
 
 

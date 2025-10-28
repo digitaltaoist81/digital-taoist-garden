@@ -10,9 +10,9 @@ feynman: Imagine this vault as a digital brain.
 title: Linking Your Thinking
 japanese: "思考をつなぐ"
 ---
-This is what the [[Digital Garden]] is about. 
-Connecting ideas. 
-Linking unrelated areas. 
+This is what the [[Digital Garden]] is about.  \
+Connecting ideas.  \
+Linking unrelated areas.  \
 Building links between \
 inner thoughts and experiences. 
 

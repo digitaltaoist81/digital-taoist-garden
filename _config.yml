@@ -40,6 +40,7 @@ collections:
   notes:
     output: true
     permalink: /:slug
+    sort_by: number
 
 defaults:
   - scope:

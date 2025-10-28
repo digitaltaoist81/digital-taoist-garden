@@ -1,0 +1,14 @@
+<div class="map-cards-container">
+    {% assign filtered_posts = site.notes %}
+    {% for note in filtered_posts limit: 10 %}
+    {% if note.tags contains include.tag %}
+    <div class="map-card">
+        <h3 class="map-card_number">{{ note.number }}</h3>
+        <div class="map-card_text">
+            <h3><a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></h3>
+            <p class="map-card_text_body">{{ note.summary }}</p>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>

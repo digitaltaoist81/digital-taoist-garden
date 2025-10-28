@@ -19,6 +19,8 @@ so I hope this can also help you as well.
 
 This is the extract regarding the concept: 
 
+---
+
 _Music as an art form is essentially playful, 
 you say you “play the piano”, you don’t work the piano. 
 Why?_

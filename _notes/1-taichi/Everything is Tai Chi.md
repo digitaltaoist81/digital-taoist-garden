@@ -14,7 +14,6 @@ title: Everything is Tai Chi
 japanese: "すべては太極である"
 ---
 
-> **abstract** \
 > A powerful idea from an article written by Andrew Townsend (link at the bottom), where a conversation with his master reveals a hidden secret. 
 
 To walk the Tao \
@@ -52,4 +51,4 @@ slowly as a Tai Chi movement.
 
 ## Sources 
 
-- [Everything Is Tai Chi | Awaken](https://awaken.com/2024/01/everything-is-tai-chi/) :: Article where Andrew explores this idea in more depth. 
+- [Everything is tai chi article](https://awaken.com/2024/01/everything-is-tai-chi/) :: Article where Andrew explores this idea in more depth. 

@@ -1,0 +1,38 @@
+
+
+.map-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 1em;
+}
+
+.map-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:260px; /* or whatever width you want. */
+    max-width:260px; /* or whatever width you want. */
+    height: 290px;
+    max-height: 290px;
+    border: 1px solid #E4E4E4;
+    padding: 0.3em 1.5em;
+    margin: 0.4em;
+    transition: 0.3s;
+}
+
+.map-card:hover {
+     background-color: white;
+     border: 1px solid #B2B2B2;
+}
+
+.map-card_number {
+    font-weight: 400;
+    color: #D0D0D0;
+}
+
+.map-card_text_body {
+    font-weight: 300;
+    font-size: 0.9rem;
+    padding-right: 1.5em;
+}
